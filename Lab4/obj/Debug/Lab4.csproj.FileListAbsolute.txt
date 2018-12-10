@@ -1,0 +1,21 @@
+c:\users\home\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+c:\users\home\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+c:\users\home\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+c:\users\home\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+c:\users\home\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+c:\users\home\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+c:\users\home\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-5\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-5\Lab4\obj\Debug\Lab4.exe
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-5\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-5\Lab4\bin\Debug\Lab4.exe
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-5\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-5\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-5\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-5\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Home\source\repos\ConsoleApp1\C-Sharp-Lab-5\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
